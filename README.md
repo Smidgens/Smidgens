@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-	🖖 Ahoy. I make open source tools for games, and occasionally pretend I'm a web designer.
+	🖖 Ahoy. I make open source tools for games and pretend I'm a web designer.
 </div>
 
 
