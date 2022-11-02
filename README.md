@@ -35,6 +35,10 @@
 		<td>Runtime console</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/Smidgens/unity-portals" target="_">unity-portals</a></td>
+		<td>Portal rendering and basic mechanics</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/Smidgens/unity-attributes" target="_">unity-attributes</a></td>
 		<td>Inspector attributes</td>
 	</tr>
@@ -57,23 +61,19 @@
 
 <table>
 	<tr>
-		<td><a href="https://github.com/Smidgens/unity-portals" target="_">unity-portals</a></td>
-		<td>Runtime console</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-panimation" target="_">unity-panimation</a></td>
+		<td>unity-panimation</td>
 		<td>Procedural animation and pose utilities</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/Smidgens/unity-extensions" target="_">unity-extensions</a></td>
+		<td>unity-extensions</td>
 		<td>Various utility extensions for built in types</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/Smidgens/unity-git" target="_">unity-git</a></td>
+		<td>unity-git</td>
 		<td>Git overlay and actions</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/Smidgens/unity-workspaces" target="_">unity-workspaces</a></td>
+		<td>unity-workspaces</td>
 		<td>Project view customization</td>
 	</tr>
 </table>
