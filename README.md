@@ -14,7 +14,7 @@
 			<img src="https://img.shields.io/badge/youtube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 		</a>
 		<a href="https://www.buymeacoffee.com/smidgens">
-			<img src="https://img.shields.io/badge/buymeacoffee-F7DF1E?style=flat&logo=buymeacoffee&logoColor=black" alt="Youtube Badge"/>
+			<img src="https://img.shields.io/badge/buymeacoffee-F7DF1E?style=flat&logo=buymeacoffee&logoColor=333" alt="Youtube Badge"/>
 		</a>
 	</div>
 </div>
