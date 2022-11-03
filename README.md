@@ -62,15 +62,15 @@
 <table>
 	<tr>
 		<td>unity-panimation</td>
-		<td>Procedural animation and pose utilities</td>
+		<td>Procedural animation utilities</td>
 	</tr>
 	<tr>
 		<td>unity-extensions</td>
-		<td>Various utility extensions for built in types</td>
+		<td>Various utilities for common types</td>
 	</tr>
 	<tr>
 		<td>unity-git</td>
-		<td>Git overlay and actions</td>
+		<td>Git integration</td>
 	</tr>
 	<tr>
 		<td>unity-workspaces</td>
