@@ -57,7 +57,7 @@
 </table>
 
 
-**⏳ In Progress**
+**⏳ In pre-release**
 
 <table>
 	<tr>
