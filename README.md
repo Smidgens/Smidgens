@@ -36,7 +36,7 @@
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Smidgens/unity-portals" target="_">unity-portals</a></td>
-		<td>Portal rendering and basic mechanics</td>
+		<td>Portal mechanics</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Smidgens/unity-attributes" target="_">unity-attributes</a></td>
@@ -44,15 +44,15 @@
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Smidgens/unity-events" target="_">unity-events</a></td>
-		<td>Serialized events</td>
+		<td>Event management</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Smidgens/unity-data" target="_">unity-data</a></td>
-		<td>Data abstraction wrappers</td>
+		<td>Data abstraction</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Smidgens/unity-qbuild" target="_">unity-qbuild</a></td>
-		<td>Build utility for prototyping</td>
+		<td>Build utility</td>
 	</tr>
 </table>
 
