@@ -61,7 +61,7 @@
 </table>
 
 
-**⏳ In pre-release (ready-ish)**
+**⏳ In pre-release (ready-ish draft)**
 
 <table>
 	<tr>
