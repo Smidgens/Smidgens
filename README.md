@@ -58,6 +58,10 @@
 		<td><a href="https://github.com/Smidgens/unity-extensions" target="_">unity-extensions</a></td>
 		<td>Extensions for common types</td>
 	</tr>
+	<tr>
+		<td><a href="https://github.com/Smidgens/unity-nothing" target="_">unity-nothing</a></td>
+		<td>Nothing</td>
+	</tr>
 </table>
 
 
