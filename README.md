@@ -54,6 +54,10 @@
 		<td><a href="https://github.com/Smidgens/unity-qbuild" target="_">unity-qbuild</a></td>
 		<td>Build utility</td>
 	</tr>
+	<tr>
+		<td><a href="https://github.com/Smidgens/unity-extensions" target="_">unity-extensions</a></td>
+		<td>Extensions for common types</td>
+	</tr>
 </table>
 
 
@@ -63,10 +67,6 @@
 	<tr>
 		<td>unity-panimation</td>
 		<td>Procedural animation utilities</td>
-	</tr>
-	<tr>
-		<td>unity-extensions</td>
-		<td>Various utilities for common types</td>
 	</tr>
 	<tr>
 		<td>unity-git</td>
