@@ -97,6 +97,11 @@
 		<td>Misc. web utilities</td>
 		<td><a href="https://utils.unnar.guru/" target="_">Demo</a></td>
 	</tr>
+	<tr>
+		<td><a href="https://github.com/Smidgens/web-spritesheet" target="_">web-spritesheet</a></td>
+		<td>Spritesheet Generator</td>
+		<td><a href="https://spritesheet.unnar.guru/" target="_">Demo</a></td>
+	</tr>
 </table>
 
 
