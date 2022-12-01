@@ -35,6 +35,18 @@
 		<td>Runtime console</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/Smidgens/unity-bt" target="_">unity-bt</a></td>
+		<td>Behaviour Trees</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/Smidgens/unity-fsm" target="_">unity-fsm</a></td>
+		<td>Finite State Machines</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/Smidgens/unity-search" target="_">unity-search</a></td>
+		<td>Search Algorithms</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/Smidgens/unity-portals" target="_">unity-portals</a></td>
 		<td>Portal mechanics</td>
 	</tr>
