@@ -71,6 +71,10 @@
 		<td>Extensions for common types</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/Smidgens/unity-scripts" target="_">unity-scripts</a></td>
+		<td>Snippet scripts</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/Smidgens/unity-nothing" target="_">unity-nothing</a></td>
 		<td>Nothing</td>
 	</tr>
