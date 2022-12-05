@@ -71,7 +71,7 @@
 		<td>Extensions for common types</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/Smidgens/unity-scripts" target="_">unity-scripts</a></td>
+		<td><a href="https://github.com/Smidgens/unity-snippets" target="_">unity-snippets</a></td>
 		<td>Snippet scripts</td>
 	</tr>
 	<tr>
