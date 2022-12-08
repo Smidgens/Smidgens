@@ -3,6 +3,7 @@
 	<div id="header" align="center">
 		<img src="/logo.png" width="100"/>
 	</div>
+	<hr/>
 	<div id="badges">
 		<a href="https://www.unnar.net/">
 			<img src="https://img.shields.io/badge/homepage-222222?style=flat" alt="linkedin"/>
@@ -17,11 +18,13 @@
 			<img src="https://img.shields.io/badge/buymeacoffee-F7DF1E?style=flat&logo=buymeacoffee&logoColor=333" alt="Youtube Badge"/>
 		</a>
 	</div>
+	<hr/>
 </div>
 
 <h3 align="center">
 	🖖 Ahoy. I make open source libraries for games and pretend I'm a web designer.
 </h3>
+
 
 
 <br/>
@@ -45,9 +48,8 @@
 <a href="https://github.com/Smidgens/unity-snippets" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/snippets.png" width="24.5%%"/></a>
 </div>
 
-<br/>
-<br/>
-<br/>
+
+
 
 <img src="header_web.png" width="100%"/>
 
