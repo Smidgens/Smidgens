@@ -3,6 +3,9 @@
 	<div id="header" align="center">
 		<img src="/logo.png" width="100"/>
 	</div>
+	<h3 align="center">
+	🖖 Ahoy. I make open source libraries for games and pretend I'm a web designer.
+</h3>
 	<hr/>
 	<div id="badges">
 		<a href="https://www.unnar.net/">
@@ -21,13 +24,8 @@
 	<hr/>
 </div>
 
-<h3 align="center">
-	🖖 Ahoy. I make open source libraries for games and pretend I'm a web designer.
-</h3>
 
 
-
-<br/>
 <br/>
 <br/>
 
