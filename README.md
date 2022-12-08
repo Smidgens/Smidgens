@@ -19,9 +19,9 @@
 	</div>
 </div>
 
-<div align="center">
+<h3 align="center">
 	🖖 Ahoy. I make open source tools for games and pretend I'm a web designer.
-</div>
+</h3>
 
 
 </br>
