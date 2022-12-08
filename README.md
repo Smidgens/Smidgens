@@ -29,74 +29,21 @@
 
 ## 🧩 Unity Plugins
 
-<table>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-console" target="_">unity-console</a></td>
-		<td>Runtime console</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-bt" target="_">unity-bt</a></td>
-		<td>Behaviour Trees</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-fsm" target="_">unity-fsm</a></td>
-		<td>Finite State Machines</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-search" target="_">unity-search</a></td>
-		<td>Search Algorithms</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-portals" target="_">unity-portals</a></td>
-		<td>Portal mechanics</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-attributes" target="_">unity-attributes</a></td>
-		<td>Inspector attributes</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-events" target="_">unity-events</a></td>
-		<td>Event management</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-data" target="_">unity-data</a></td>
-		<td>Data abstraction</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-qbuild" target="_">unity-qbuild</a></td>
-		<td>Build utility</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-extensions" target="_">unity-extensions</a></td>
-		<td>Extensions for common types</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-snippets" target="_">unity-snippets</a></td>
-		<td>Snippet scripts</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/unity-nothing" target="_">unity-nothing</a></td>
-		<td>Nothing</td>
-	</tr>
-</table>
+<div>
+	
+<a href="https://github.com/Smidgens/unity-console" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/console.png" width="24.5%"/></a>
+<a href="https://github.com/Smidgens/unity-bt" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/bt.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-fsm" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/fsm.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-search" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/search.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-portals" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/portals.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-attributes" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/attributes.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-events" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/events.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-data" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/data.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-qbuild" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/qbuild.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-extensions" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/extensions.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-snippets" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/snippets.png" width="24.5%%"/></a>
+</div>
 
-
-**⏳ In pre-release (ready-ish draft)**
-
-<table>
-	<tr>
-		<td>unity-panimation</td>
-		<td>Procedural animation utilities</td>
-	</tr>
-	<tr>
-		<td>unity-git</td>
-		<td>Git integration</td>
-	</tr>
-	<tr>
-		<td>unity-workspaces</td>
-		<td>Project view customization</td>
-	</tr>
-</table>
 
 </br>
 
@@ -107,11 +54,6 @@
 		<td><a href="https://github.com/Smidgens/web-360" target="_">web-360</a></td>
 		<td>360 web viewer</td>
 		<td><a href="https://360.unnar.guru/?src=https://playground.babylonjs.com/textures/360photo.jpg" target="_">Demo</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/web-utils" target="_">web-utils</a></td>
-		<td>Misc. web utilities</td>
-		<td><a href="https://utils.unnar.guru/" target="_">Demo</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Smidgens/web-spritesheet" target="_">web-spritesheet</a></td>
