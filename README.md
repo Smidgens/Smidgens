@@ -33,8 +33,8 @@
 
 <div>
 	
-<a href="https://github.com/Smidgens/unity-console" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/console.png" width="24.5%"/></a>
-<a href="https://github.com/Smidgens/unity-bt" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/bt.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-console" target="_"><img src="thumbs/console.png" width="24.5%"/></a>
+<a href="https://github.com/Smidgens/unity-bt" target="_"><img src="thumbs/bt.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-fsm" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/fsm.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-search" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/search.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-portals" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/portals.png" width="24.5%%"/></a>
@@ -50,19 +50,10 @@
 
 <img src="headers/web.png" width="100%"/>
 
-
-<table>
-	<tr>
-		<td><a href="https://github.com/Smidgens/web-360" target="_">web-360</a></td>
-		<td>360 web viewer</td>
-		<td><a href="https://360.unnar.guru/?src=https://playground.babylonjs.com/textures/360photo.jpg" target="_">Demo</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Smidgens/web-spritesheet" target="_">web-spritesheet</a></td>
-		<td>Spritesheet Generator</td>
-		<td><a href="https://spritesheet.unnar.guru/" target="_">Demo</a></td>
-	</tr>
-</table>
+<div>
+<a href="https://github.com/Smidgens/web-spritesheet" target="_"><img src="thumbs/spritesheet.png" width="24.5%"/></a>
+	<a href="https://github.com/Smidgens/web-360" target="_"><img src="thumbs/360.png" width="24.5%"/></a>
+</div>
 
 
 
