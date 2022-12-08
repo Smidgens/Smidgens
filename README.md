@@ -37,7 +37,7 @@
 <a href="https://github.com/Smidgens/unity-bt" target="_"><img src="thumbs/bt.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-fsm" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/fsm.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-search" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/search.png" width="24.5%%"/></a>
-<a href="https://github.com/Smidgens/unity-portals" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/portals.png" width="24.5%%"/></a>
+<a href="https://github.com/Smidgens/unity-portals" target="_"><img src="thumbs/portal.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-attributes" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/attributes.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-events" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/events.png" width="24.5%%"/></a>
 <a href="https://github.com/Smidgens/unity-data" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/data.png" width="24.5%%"/></a>
