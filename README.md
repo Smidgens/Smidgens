@@ -24,10 +24,11 @@
 </h3>
 
 
-</br>
+<br/>
+<br/>
+<br/>
 
-
-## 🧩 Unity Plugins
+<img src="header_unity.png" width="100%"/>
 
 <div>
 	
@@ -44,10 +45,11 @@
 <a href="https://github.com/Smidgens/unity-snippets" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/snippets.png" width="24.5%%"/></a>
 </div>
 
+<br/>
+<br/>
+<br/>
 
-</br>
-
-## 🌐 Web Apps
+<img src="header_web.png" width="100%"/>
 
 <table>
 	<tr>
