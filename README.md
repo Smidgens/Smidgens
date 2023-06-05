@@ -1,8 +1,5 @@
 
 <div id="header" align="center">
-	<div id="header" align="center">
-		<img src="/logo.png" width="100"/>
-	</div>
 	<h3 align="center">
 	🖖 Ahoy. I make stuff for games and pretend I'm a web designer.
 </h3>
@@ -14,6 +11,9 @@
 		<a href="https://www.linkedin.com/in/unnarkrist/">
 			<img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 		</a>
+	</div>
+	<div id="header" align="center">
+		<img src="/guy.png" width="100"/>
 	</div>
 <!-- 	<hr/> -->
 </div>
