@@ -6,7 +6,7 @@
 	<h3 align="center">
 	🖖 Ahoy. I make utilities for games and pretend I'm a web designer.
 </h3>
-	<hr/>
+<!-- 	<hr/> -->
 	<div id="badges">
 		<a href="https://www.unnar.net/">
 			<img src="https://img.shields.io/badge/homepage-222222?style=flat" alt="linkedin"/>
@@ -15,15 +15,14 @@
 			<img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 		</a>
 	</div>
-	<hr/>
+<!-- 	<hr/> -->
 </div>
 
 
-
 <br/>
 <br/>
 
-<img src="headers/plugins.png" width="100%"/>
+<!-- <img src="headers/plugins.png" width="100%"/>
 
 <div>
 	
@@ -40,14 +39,12 @@
 <a href="https://github.com/Smidgens/unity-snippets" target="_"><img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/_thumbs/snippets.png" width="24.5%%"/></a>
 </div>
 
-
-
 <img src="headers/web.png" width="100%"/>
 
 <div>
 <a href="https://github.com/Smidgens/web-spritesheet" target="_"><img src="thumbs/spritesheet.png" width="24.5%"/></a>
 	<a href="https://github.com/Smidgens/web-360" target="_"><img src="thumbs/360.png" width="24.5%"/></a>
-</div>
+</div> -->
 
 
 
