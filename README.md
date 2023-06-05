@@ -4,7 +4,7 @@
 		<img src="/logo.png" width="100"/>
 	</div>
 	<h3 align="center">
-	🖖 Ahoy. I make open source utilities for games and pretend I'm a web designer.
+	🖖 Ahoy. I make utilities for games and pretend I'm a web designer.
 </h3>
 	<hr/>
 	<div id="badges">
@@ -13,12 +13,6 @@
 		</a>
 		<a href="https://www.linkedin.com/in/unnarkrist/">
 			<img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
-		</a>
-		<a href="https://www.youtube.com/@unnarkrist">
-			<img src="https://img.shields.io/badge/youtube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-		</a>
-		<a href="https://www.buymeacoffee.com/smidgens">
-			<img src="https://img.shields.io/badge/buymeacoffee-F7DF1E?style=flat&logo=buymeacoffee&logoColor=333" alt="Youtube Badge"/>
 		</a>
 	</div>
 	<hr/>
