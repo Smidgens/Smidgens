@@ -11,6 +11,9 @@
 		<a href="https://www.linkedin.com/in/unnarkrist/">
 			<img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 		</a>
+		<a href="https://sketchfab.com/smidgens">
+			<img src="https://img.shields.io/badge/sketchfab-00AAD8?style=flat&logo=sketchfab&logoColor=white" alt="linkedin"/>
+		</a>
 	</div>
 	<div id="header" align="center">
 		<img src="/guy.png" width="100"/>
