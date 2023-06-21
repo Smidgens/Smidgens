@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 	<h3 align="center">
-	🖖 Ahoy. I make stuff for games, make unsavoury 3D art, and pretend I'm a web designer.
+	🖖 Ahoy. I make stuff for games, model unsavoury 3D art, and pretend I'm a web designer.
 </h3>
 <!-- 	<hr/> -->
 	<div id="badges">
